@@ -1,0 +1,1 @@
+You are given an integer N, print all the odd values, for all i, where 0 <= i < N. Print each values on a seperate line.
